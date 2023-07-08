@@ -1,5 +1,5 @@
-# FUNÇÃO
-<p> Este simples programa nasceu de uma necessidade relacionada à constante conferência de estoque do local onde trabalho, uma das lojas TIM. Sua função é simples: organizando os chips em diferentes arquivos .txt (os que vão ser usados durante o dia, os vendidos - consultados no dia seguinte, por meio do SAP - e os que sobraram na gaveta), salvando as alterações e dando run no programa. </p>
+* FUNÇÃO *
+Este simples programa nasceu de uma necessidade relacionada à constante conferência de estoque do local onde trabalho, uma das lojas TIM. Sua função é simples: organizando os chips em diferentes arquivos .txt (os que vão ser usados durante o dia, os vendidos - consultados no dia seguinte, por meio do SAP - e os que sobraram na gaveta), salvando as alterações e dando run no programa.
 
-<h3>DESENVOLVIMENTO FUTURO</h3>
-<p> Para facilitar seu uso - eliminando a necessidade de abrir o PyCharm - pretendo construir uma GUI que permita a anexação de arquivos. Assim, meus colegas de trabalho só precisarão de um .exe (PyInstaller) e, uma vez executado, selecionar os respectivos arquivos. Logo, o output dos chips que foram vendidos, os que sobraram e os que não foram reconhecidos será apresentado numa tela simples. </p>
+- DESENVOLVIMENTO FUTURO -
+Para facilitar seu uso - eliminando a necessidade de abrir o PyCharm - pretendo construir uma GUI que permita a anexação de arquivos. Assim, meus colegas de trabalho só precisarão de um .exe (PyInstaller) e, uma vez executado, selecionar os respectivos arquivos. Logo, o output dos chips que foram vendidos, os que sobraram e os que não foram reconhecidos será apresentado numa tela simples.
